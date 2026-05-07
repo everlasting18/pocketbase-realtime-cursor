@@ -1,0 +1,4 @@
+node_modules/
+dist/
+pocketbase/
+.DS_Store
