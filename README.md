@@ -1,10 +1,7 @@
 # PocketBase Realtime — Mouse Tracker
 
-<p align="center">
-  <i>Demo GIF here — open 2 tabs, move mouse, see live sync</i>
-</p>
-
-Realtime collaborative mouse cursor tracker + shared note. Open 2 browser tabs, move your mouse in one — see the cursor move in the other at 60fps. Built with **PocketBase SSE** and **React**.
+# PocketBase Realtime — Mouse Tracker
+<img width="785" height="474" alt="image" src="https://github.com/user-attachments/assets/b91b0525-57e3-4f5b-a28f-52f955090a61" />
 
 ## Features
 
