@@ -1,6 +1,5 @@
 # PocketBase Realtime — Mouse Tracker
 
-# PocketBase Realtime — Mouse Tracker
 <img width="785" height="474" alt="image" src="https://github.com/user-attachments/assets/b91b0525-57e3-4f5b-a28f-52f955090a61" />
 
 ## Features
